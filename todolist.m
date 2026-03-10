@@ -1,13 +1,13 @@
-# To-Do List for Tdams c�te d'Ivoire Website
+# To-Do List for Tdams céte d'Ivoire Website
 
 ## Project Overview
-- **Company Name:** Tdams c�te d'Ivoire
+- **Company Name:** Tdams céte d'Ivoire
 - **Directory:** tdams_c_te_d_ivoire
 - **Address/Contact:** 
   - Toujours ouvert
   - 
-  - Abidjan, C�te d'Ivoire, +225
-  - Coordonn�es
+  - Abidjan, Céte d'Ivoire, +225
+  - Coordonnées
   - 
   - +225 0797834940
   - 
@@ -28,7 +28,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: tdams-c-te-d-ivoire  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Tdams c�te d'Ivoire  - Meta description: https://www.facebook.com/profile.php?id=100064729238799...
+  - Title: Tdams céte d'Ivoire  - Meta description: https://www.facebook.com/profile.php?id=100064729238799...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -44,7 +44,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Tdams c�te d'Ivoire".
+  - Replace the hero title with "Tdams céte d'Ivoire".
   - Update the subtitle with: "https://www.facebook.com/profile.php?id=100064729238799".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):

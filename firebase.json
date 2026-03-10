@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "tdams-c-te-d-ivoire",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
